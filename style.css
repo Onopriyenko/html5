@@ -1,0 +1,13 @@
+.pre
+	{
+		margin: 0 300px;
+		width: 500px;
+		background-color: yellow;
+		border:5px dotted black;
+	}
+.firsDiv{
+	background-color: red;
+}
+.secondDiv{
+	background-color: green;
+}
